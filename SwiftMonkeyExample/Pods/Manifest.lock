@@ -1,0 +1,20 @@
+PODS:
+  - SwiftMonkey (2.1.1)
+  - SwiftMonkeyPaws (2.1.1)
+
+DEPENDENCIES:
+  - SwiftMonkey (~> 2.1.1)
+  - SwiftMonkeyPaws (~> 2.1.1)
+
+SPEC REPOS:
+  trunk:
+    - SwiftMonkey
+    - SwiftMonkeyPaws
+
+SPEC CHECKSUMS:
+  SwiftMonkey: aea6f2707a4b7ab5277b4d2fd2f0723a083997b1
+  SwiftMonkeyPaws: 655524bb402df5ac2be836f9f604aca1068fbde6
+
+PODFILE CHECKSUM: dcf135628b97b96d94a21289cb3a1a63ade55b15
+
+COCOAPODS: 1.10.0

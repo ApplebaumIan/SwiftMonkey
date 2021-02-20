@@ -1,3 +1,4 @@
+# coding: utf-8
 Pod::Spec.new do |s|
   s.name         = "SwiftMonkeyPaws"
   s.version      = "2.1.2"
@@ -13,7 +14,7 @@ Pod::Spec.new do |s|
   s.author       = { "Dag Ågren" => "dag.agren@zalando.fi" }
   s.social_media_url = "http://twitter.com/WAHa_06x36"
   s.platform     = :ios, '8.0'
-  s.source       = { :git => "https://github.com/zalando/SwiftMonkey.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ApplebaumIan/SwiftMonkey.git", :tag => "#{s.version}" }
   s.source_files = "SwiftMonkeyPaws/*.swift"
   s.swift_version = "4.2"
   s.exclude_files = "SwiftMonkeyPaws/Package.swift"

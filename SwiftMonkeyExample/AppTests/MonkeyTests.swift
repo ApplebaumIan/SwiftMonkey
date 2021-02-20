@@ -39,10 +39,10 @@ class SwiftMonkeyExampleUITests: XCTestCase {
         // monkey.addDefaultXCTestPrivateActions()
         
         // after Xcode 10.1 We can only use public API
-        monkey.addDefaultXCTestPublicActions(app: application)
+//        monkey.addDefaultXCTestPublicActions(app: application)
         
         // UIAutomation actions seem to work only on the simulator.
-        //monkey.addDefaultUIAutomationActions()
+        monkey.addDefaultUIAutomationActions()
         
         // Occasionally, use the regular XCTest functionality
         // to check if an alert is shown, and click a random
