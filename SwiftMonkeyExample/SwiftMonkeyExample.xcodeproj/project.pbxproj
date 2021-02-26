@@ -229,13 +229,13 @@
 				TargetAttributes = {
 					C929B5301DD0A764004B256F = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 9LW237982J;
+						DevelopmentTeam = N6ESLEE34B;
 						LastSwiftMigration = 1000;
 						ProvisioningStyle = Automatic;
 					};
 					C929B5461DD0A764004B256F = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 9LW237982J;
+						DevelopmentTeam = N6ESLEE34B;
 						LastSwiftMigration = 1000;
 						ProvisioningStyle = Automatic;
 						TestTargetID = C929B5301DD0A764004B256F;
@@ -247,6 +247,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -485,7 +486,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 9LW237982J;
+				DEVELOPMENT_TEAM = N6ESLEE34B;
 				INFOPLIST_FILE = App/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.zalando.SwiftMonkeyExample;
@@ -502,7 +503,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 9LW237982J;
+				DEVELOPMENT_TEAM = N6ESLEE34B;
 				INFOPLIST_FILE = App/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.zalando.SwiftMonkeyExample;
@@ -516,7 +517,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = 9LW237982J;
+				DEVELOPMENT_TEAM = N6ESLEE34B;
 				INFOPLIST_FILE = AppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.zalando.SwiftMonkeyExampleUITests;
@@ -530,7 +531,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = 9LW237982J;
+				DEVELOPMENT_TEAM = N6ESLEE34B;
 				INFOPLIST_FILE = AppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.zalando.SwiftMonkeyExampleUITests;
